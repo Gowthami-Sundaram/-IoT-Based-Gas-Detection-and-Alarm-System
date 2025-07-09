@@ -71,9 +71,9 @@ Pull-down resistor (4kΩ) possibly used for signal stabilization
 
 ![Screenshot 2025-07-09 174847](https://github.com/user-attachments/assets/f834a723-7a27-41cd-86c8-90648aacf149)
 
-
 ![Screenshot 2025-07-09 175015](https://github.com/user-attachments/assets/e4582b88-b8f1-4c92-88cd-592a0482ca1c)
 
+![Screenshot 2025-07-09 175110](https://github.com/user-attachments/assets/ab13ce92-6c98-4be4-9925-60d6322dc658)
 
 ![Screenshot 2025-07-09 175436](https://github.com/user-attachments/assets/027f899e-4e82-4962-a9d8-f3cb9d2ea8aa)
 
